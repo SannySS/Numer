@@ -1,0 +1,18 @@
+.ant-carousel .slick-slide {
+    text-align: center;
+    background: #364d79;
+    overflow: hidden;
+    
+  }
+  
+  .ant-carousel .slick-slide h1 {
+    color: rgb(226, 17, 17);
+  }
+.photo {
+    background-image: url("./wall.png");
+    height: 300px;
+    
+  }
+  .intro {
+    background-color: yellow;
+  }
